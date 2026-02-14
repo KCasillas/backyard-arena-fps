@@ -1,27 +1,20 @@
-# backyard-arena-fps
+# Backyard Arena FPS
+
 # Backyard Arena FPS
 
 Roblox Team Deathmatch prototype.
 
-## MVP Goals
+## MVP (v0.1)
+- Platforms: PC + Mobile
+- 2 teams (Red / Blue)
+- First team to 10 kills wins
+- 4 minute match timer
+- Respawn: 2 seconds
+- Movement: sprint + jump
+- Weapons: Rifle + Shotgun (hitscan)
+- Headshots
+- UI: crosshair, ammo, score, timer
 
-- 2 Teams (Red / Blue)
-- 25 kills to win
-- 5 minute match timer
-- Respawn time: 2 seconds
-- Weapons:
-  - Rifle
-  - Shotgun
-- Hitscan damage
-- Headshot multiplier
-- UI:
-  - Crosshair
-  - Ammo counter
-  - Team score
-- 1 small arena map with cover
+## Notes
+- Mobile: left joystick move, right thumb look, buttons for fire/reload/sprint/jump
 
-## Feel Targets
-
-- Fast respawns
-- TTK ~0.6–1.0 seconds (rifle)
-- Sprint + Jump movement
